@@ -1,0 +1,49 @@
+div{
+    
+    color: cornflowerblue;    
+    border: solid 10px;
+    margin: 2px;
+    width: 350px;
+    height: 270px;
+    padding: 4px;
+    background-color: white;
+    text-shadow: 10px;
+    font-size: 10px;
+}
+
+h1 {color: cornflowerblue;
+    font-size: 20px;
+    margin: 20px;
+}
+form {
+    
+    width: 8px;
+    height: 4px;
+    margin: 8px;
+    padding: 10px;
+    box-sizing: border-box;
+    background: #fff  
+  }
+input
+{
+    width: 290px;
+    height: 20px;
+    margin: 8px;
+    padding: 6px;
+    box-shadow: none;
+    align-self: start;
+    
+}
+button{
+    background-color: cornflowerblue;
+    color: white;
+    width: 305px;
+    height: 40px;
+    padding: 3px;
+    margin: 6px;
+    border: none;
+    cursor: pointer;
+    font-size: 15px;
+
+}
+
